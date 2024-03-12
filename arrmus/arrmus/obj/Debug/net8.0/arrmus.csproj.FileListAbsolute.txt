@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\task3\arrmus\arrmus\bin\Debug\net8.0\arrmus.exe
+C:\Users\User\Desktop\task3\arrmus\arrmus\bin\Debug\net8.0\arrmus.deps.json
+C:\Users\User\Desktop\task3\arrmus\arrmus\bin\Debug\net8.0\arrmus.runtimeconfig.json
+C:\Users\User\Desktop\task3\arrmus\arrmus\bin\Debug\net8.0\arrmus.dll
+C:\Users\User\Desktop\task3\arrmus\arrmus\bin\Debug\net8.0\arrmus.pdb
+C:\Users\User\Desktop\task3\arrmus\arrmus\obj\Debug\net8.0\arrmus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\task3\arrmus\arrmus\obj\Debug\net8.0\arrmus.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\task3\arrmus\arrmus\obj\Debug\net8.0\arrmus.AssemblyInfo.cs
+C:\Users\User\Desktop\task3\arrmus\arrmus\obj\Debug\net8.0\arrmus.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\task3\arrmus\arrmus\obj\Debug\net8.0\arrmus.dll
+C:\Users\User\Desktop\task3\arrmus\arrmus\obj\Debug\net8.0\refint\arrmus.dll
+C:\Users\User\Desktop\task3\arrmus\arrmus\obj\Debug\net8.0\arrmus.pdb
+C:\Users\User\Desktop\task3\arrmus\arrmus\obj\Debug\net8.0\arrmus.genruntimeconfig.cache
+C:\Users\User\Desktop\task3\arrmus\arrmus\obj\Debug\net8.0\ref\arrmus.dll

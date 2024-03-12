@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\task3\arrmin\arrmin\bin\Debug\net8.0\arrmin.exe
+C:\Users\User\Desktop\task3\arrmin\arrmin\bin\Debug\net8.0\arrmin.deps.json
+C:\Users\User\Desktop\task3\arrmin\arrmin\bin\Debug\net8.0\arrmin.runtimeconfig.json
+C:\Users\User\Desktop\task3\arrmin\arrmin\bin\Debug\net8.0\arrmin.dll
+C:\Users\User\Desktop\task3\arrmin\arrmin\bin\Debug\net8.0\arrmin.pdb
+C:\Users\User\Desktop\task3\arrmin\arrmin\obj\Debug\net8.0\arrmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\task3\arrmin\arrmin\obj\Debug\net8.0\arrmin.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\task3\arrmin\arrmin\obj\Debug\net8.0\arrmin.AssemblyInfo.cs
+C:\Users\User\Desktop\task3\arrmin\arrmin\obj\Debug\net8.0\arrmin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\task3\arrmin\arrmin\obj\Debug\net8.0\arrmin.dll
+C:\Users\User\Desktop\task3\arrmin\arrmin\obj\Debug\net8.0\refint\arrmin.dll
+C:\Users\User\Desktop\task3\arrmin\arrmin\obj\Debug\net8.0\arrmin.pdb
+C:\Users\User\Desktop\task3\arrmin\arrmin\obj\Debug\net8.0\arrmin.genruntimeconfig.cache
+C:\Users\User\Desktop\task3\arrmin\arrmin\obj\Debug\net8.0\ref\arrmin.dll

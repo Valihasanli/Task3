@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\task3\arrreadline\arrreadline\obj\Debug\net8.0\arrreadline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\task3\arrreadline\arrreadline\obj\Debug\net8.0\arrreadline.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\task3\arrreadline\arrreadline\obj\Debug\net8.0\arrreadline.AssemblyInfo.cs
+C:\Users\User\Desktop\task3\arrreadline\arrreadline\obj\Debug\net8.0\arrreadline.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\task3\arrreadline\arrreadline\bin\Debug\net8.0\arrreadline.exe
+C:\Users\User\Desktop\task3\arrreadline\arrreadline\bin\Debug\net8.0\arrreadline.deps.json
+C:\Users\User\Desktop\task3\arrreadline\arrreadline\bin\Debug\net8.0\arrreadline.runtimeconfig.json
+C:\Users\User\Desktop\task3\arrreadline\arrreadline\bin\Debug\net8.0\arrreadline.dll
+C:\Users\User\Desktop\task3\arrreadline\arrreadline\bin\Debug\net8.0\arrreadline.pdb
+C:\Users\User\Desktop\task3\arrreadline\arrreadline\obj\Debug\net8.0\arrreadline.dll
+C:\Users\User\Desktop\task3\arrreadline\arrreadline\obj\Debug\net8.0\refint\arrreadline.dll
+C:\Users\User\Desktop\task3\arrreadline\arrreadline\obj\Debug\net8.0\arrreadline.pdb
+C:\Users\User\Desktop\task3\arrreadline\arrreadline\obj\Debug\net8.0\arrreadline.genruntimeconfig.cache
+C:\Users\User\Desktop\task3\arrreadline\arrreadline\obj\Debug\net8.0\ref\arrreadline.dll
